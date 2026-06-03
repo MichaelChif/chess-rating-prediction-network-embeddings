@@ -49,7 +49,3 @@ Model performance was evaluated using RMSE, and feature importance was used to i
 ## Why This Project Matters
 
 This project shows how graph-based machine learning can reveal patterns that basic statistics may miss. By modeling chess players as part of a competitive network, the model can learn from the quality of opponents, player relationships, and hidden similarities across the player pool.
-
-## Resume Summary
-
-Built a chess rating prediction model using Lichess match data, Node2Vec network embeddings, graph-based features, and XGBoost regression to predict official player ratings.
