@@ -1,7 +1,3 @@
-Yes, exactly. Just remove the **Resume Summary** section and you’re good.
-
-Paste this updated version:
-
 # Chess Rating Prediction via Player Network Embeddings
 
 This project predicts chess player ratings using Lichess match data, graph-based player relationships, Node2Vec embeddings, and XGBoost regression.
